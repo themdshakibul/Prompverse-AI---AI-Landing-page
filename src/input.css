@@ -14,27 +14,33 @@
   .hidden-1 {
     display: none;
   }
+}
 
-  /* custom color */
-  :root {
-    /* text color  */
+:root {
+  /* text color  */
 
-    --Disabled-text: #a7a7ac;
-    --Alternate-text: #ffffff;
-    --Primary-text: #282828;
-    --Secondary-text: #747474;
-    --Primary: #ffffff;
-    --Disabled: #a7a7ac;
+  --Disabled-text: #a7a7ac;
+  --Alternate-text: #ffffff;
+  --Primary-text: #282828;
+  --Secondary-text: #747474;
+  --Primary: #ffffff;
+  --Disabled: #a7a7ac;
 
-    /* icon color */
+  /* icon color */
 
-    --Primary-icon: #282828;
-    --Primary-icon: #f2f2f2;
+  --Primary-icon: #282828;
 
-    /*  Promptverse color */
+  /*  Promptverse color */
 
-    --Promptverse-text: #ffffff;
-    --promptverse-link: #1d73f3;
-    --Promptverse-bg: #ffffff69;
-  }
+  --Promptverse-text: #ffffff;
+  --promptverse-link: #1d73f3;
+  --Promptverse-bg: #ffffff69;
+
+  /* Image like background:  color  */
+
+  --image-background: #0e0e0e;
+
+  /* background color */
+
+  --background: #1e1e1e;
 }
